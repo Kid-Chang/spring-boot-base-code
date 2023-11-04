@@ -1,0 +1,12 @@
+###
+GET localhost:8080/transactions?accountId=123-456
+
+###
+GET localhost:8080/transactions/1
+
+###
+GET localhost:8080/transactions?accountId=456-789
+
+
+###
+GET localhost:8080/transactions/2
